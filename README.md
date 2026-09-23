@@ -1,5 +1,5 @@
 
-# Neural Network — Backpropagation on XOR
+# Neural Network, Backpropagation on XOR
 
 ![Header](header.png)
 
