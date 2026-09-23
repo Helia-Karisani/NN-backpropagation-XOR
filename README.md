@@ -118,5 +118,3 @@ This project demonstrates:
 - Backpropagation for training  
 - Error minimization over time  
 
-A minimal but complete implementation of learning in neural networks.
-````
